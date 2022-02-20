@@ -1,2 +1,2 @@
-# Python_programming_assignment1-Basic-
+# Python_programming_assignment-Basic-
 python programming assignment1 of iNeuron
